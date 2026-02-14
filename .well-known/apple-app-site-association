@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "
+9A59PL769D.HabitHero.Eugene.Uki",
+        "paths": [ "/app/*" ]
+      }
+    ]
+  }
+}
